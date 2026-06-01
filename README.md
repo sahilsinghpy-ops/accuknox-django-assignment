@@ -1,3 +1,14 @@
+This project contains solutions for:
+
+1. Django Signals - Synchronous vs Asynchronous behavior
+2. Django Signals - Thread behavior
+3. Django Signals - Database transaction behavior
+4. Iterable Rectangle class in Python
+
+
+
+
+
 # Accuknox Django Trainee Assignment
 
 ## Candidate
