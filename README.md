@@ -54,6 +54,11 @@ Signal Started
 Signal Finished
 After Save
 ```
+Terminal 
+
+<img width="369" height="150" alt="Screenshot from 2026-06-01 13-03-34" src="https://github.com/user-attachments/assets/dc6137f7-3948-40ca-ad39-35acfa59baa7" />
+
+
 
 ### Conclusion
 
