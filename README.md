@@ -79,6 +79,12 @@ View Thread ID: 130868170364608
 Signal Thread ID: 130868170364608
 ```
 
+<img width="366" height="113" alt="Screenshot from 2026-06-01 13-01-33" src="https://github.com/user-attachments/assets/54c29a3f-30c7-4a22-b25f-73516b92e9d8" />
+
+
+
+
+
 ### Conclusion
 
 The identical thread IDs prove that Django signals execute in the same thread as the caller by default.
@@ -100,6 +106,11 @@ Rollback Happened
 TransactionDemo Count: 0
 TransactionLog Count: 0
 ```
+
+
+
+<img width="370" height="175" alt="Screenshot from 2026-06-01 13-00-55" src="https://github.com/user-attachments/assets/29790d95-d505-4409-a18b-ddefea723fbe" />
+
 
 ### Conclusion
 
